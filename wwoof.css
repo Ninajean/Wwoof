@@ -1,0 +1,42 @@
+h1 {
+  color: blue;
+}
+#about {
+     background: url('tree.jpg');
+     background-size: cover;
+     background-position: center;
+     color: white;
+   }
+/*   header {
+   	background: url('tree.jpg') no-repeat center center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     height: 100vh;
+   }
+   /* The navigation bar */
+   .navbar {
+       overflow: hidden;
+       background-color: #333;
+       position: fixed; /* Set the navbar to fixed position */
+       top: 0; /* Position the navbar at the top of the page */
+       width: 100%; /* Full width */
+       z-index: 999;
+   }
+
+   /* Links inside the navbar */
+   .navbar a {
+       float: left;
+       display: block;
+       color: #f2f2f2;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+
+   }
+
+   /* Main content */
+   .main {
+       margin-top: 30px; /* Add a top margin to avoid content overlay */
+   }
